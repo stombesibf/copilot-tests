@@ -1,0 +1,5 @@
+SupplierNumber,CompanyCode,Name1,Name2,POBox,District,Street,PostalCode,City,Country,PaymentTerms,EmailAddress,ContactPerson,PhoneNumber,FaxNumber,VATRegistrationNumber,TaxNumber1,TaxNumber2
+"0020000007","7100","DANONE SA (PARIS)","","","","17 RUE DES DEUX GARES","92500","RUEIL MALMAISON","FR","ZF30","","","","","","",""
+"0020000008","7100","DANONE DE MEXICO S.A DE C.V","","","","AV. IRAPUATO 2030 COL. CD INDUSTRIA","36541","Irapuato","MX","Z000","Intercompanies.Mexico@danone.com","","","","","",""
+"0060000000","7100","COEXPAN BRASIL EMBALAGENS LTDA","","","","ROD. DOM GABRIEL PAULINO BUENO","000000893","BRASIL","BR","ZF60","Intercompanies.Mexico@danone.com","","","","","",""
+

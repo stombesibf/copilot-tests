@@ -1,0 +1,12 @@
+SupplierNumber,CompanyCode,Name1,Name2,POBox,District,Street,PostalCode,City,Country,PaymentTerms,EmailAddress,ContactPerson,PhoneNumber,FaxNumber,VATRegistrationNumber,TaxNumber1,TaxNumber2
+"0020000007","7100","DANONE SA (PARIS)","","","","17 RUE DES DEUX GARES","92500","RUEIL MALMAISON","FR","ZF30","","","","","","",""
+"0020000008","7100","DANONE DE MEXICO S.A DE C.V","","","","AV. IRAPUATO 2030 COL. CD INDUSTRIA","36541","Irapuato","MX","Z000","Intercompanies.Mexico@danone.com","","","","","",""
+"0060000000","7100","COEXPAN BRASIL EMBALAGENS LTDA","","","","ROD. DOM GABRIEL PAULINO BUENO","000000893","BRASIL","BR","ZF60","Intercompanies.Mexico@danone.com","","","","","",""
+"0060000001","7100","SOCOCO S A INDUSTRIAS ALIMENTICIAS","","","","Av. Gustavo Paiva, 2541, Mangabeira","005703753","Maceió","BR","ZF60","Intercompanies.Mexico@danone.com","","","","","",""
+"0060000002","7100","DANONE FRANCE","DANONE FRANCE","","","126 RUE JULES GUESDE","92302","LEVALLOIS","FR","ZR30","Intercompanies.Mexico@danone.com","","","","","",""
+"0060000004","7100","PROCESS2i","","","","53 rue du calvaire","35310","breal sous montfort","FR","ZF60","fabien.tudal@process2i.com","","","","","",""
+"0060000005","7100","YOU ARE THE PRINCESS S.L.","","","","PLAZA DE ORIENTE 3","28013","MADRID","ES","Z000","juan@kandui.es","","","","","",""
+"0060000006","7100","AXFLOW","","","","ZAC DE LA CROIX PRUNELLE","27220","ST ANDRE DE LEURE","FR","ZR60","logistica@biaconsult.com.ar","","","","","",""
+"0060000007","7100","OTERRA AS","","","","Agern Allé 24","2970","Hoersholm","DK","ZR60","renata.moreira@oterra.com","","","","","",""
+"0060000008","7100","GLASSY FILMS SL","","","","Calle Pau Claris 167 1º 2ª A","08037","BARCELONA","ES","ZR60","yago@glassyfilms.com","","","","","",""
+"0060000009","7100","NUBILE OLGA","","","","MARIA VILAC 1500","88000","FLORIANOPOLIS","BR","ZF10","yago@glassyfilms.com","","","","","",""

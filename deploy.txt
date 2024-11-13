@@ -1,0 +1,13 @@
+Set Variables des Source
+
+. ./setenv.sh
+
+Desde carpeta de proyecto /arch-as-md
+
+scripts/subscriber.sh test
+scripts/sftpsender.sh prod
+scripts/broker.sh prod
+scripts/broker.route.sh
+
+
+scripts/sftpsender.sh test

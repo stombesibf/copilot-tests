@@ -1,0 +1,5 @@
+SupplierNumber,CompanyCode,Name1,Name2,Street,POBox,City,District,PostalCode,Country,PaymentTerms,EmailAddress,ContactPerson,PhoneNumber,FaxNumber,VATRegistrationNumber,TaxNumber1,TaxNumber2
+0020152837,4200,"WILLY A. BACHOFEN AG","SN ARG","JUNKERMATTSTRASSE 11",4132,"MUTTENZ","CH",,"CH",,"mail1@gmail.com","Persona 1",CHE105966896,,,,
+0020201450,4200,"CON-SER S.A.,DAN ARG","INT.","GARRAHAN 348",1748,"GRAL RODRIGUEZ","AR",,"AR",,"mail2@gmail.com","Persona 2",30569613392,,,,
+0020090063,4200,"BENEO-ORAFTI S.A.","SUDZUCKER","RUE LOUIS MARÉCHAL 1",4360,"OREYE","BE",,"BE",,"mail3@gmail.com","Persona 3",3219679401,19679424,BE0413631556,,
+
